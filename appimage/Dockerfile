@@ -1,4 +1,4 @@
-﻿FROM ghcr.io/chrismellard/baseimage:8fd35a368c66b420ab259c3bf18a39c4e74cd8c4 AS base
+﻿FROM ghcr.io/chrismellard/baseimage:da63ee2ccd9169ffbf2dc7cf96758517c0eb88c3 AS base
 WORKDIR /app
 EXPOSE 80
 EXPOSE 443
