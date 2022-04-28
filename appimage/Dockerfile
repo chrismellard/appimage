@@ -1,4 +1,4 @@
-﻿FROM ghcr.io/chrismellard/baseimage:69d7147def0a7005cbd552fe24a3b253f495a156 AS base
+﻿FROM ghcr.io/chrismellard/baseimage:164c1657a876127fdeecea7f8f3a100d144c7bc3 AS base
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
